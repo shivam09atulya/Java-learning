@@ -33,6 +33,5 @@ public class Main {
         ex1.fun1();
         System.out.println("x in main"+ex1.x);
         }
-    }
-
+}
 
